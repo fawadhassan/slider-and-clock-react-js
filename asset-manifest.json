@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/slider-and-clock-react-js/static/css/main.b97d33ab.chunk.css",
+    "main.js": "/slider-and-clock-react-js/static/js/main.216e89d6.chunk.js",
+    "main.js.map": "/slider-and-clock-react-js/static/js/main.216e89d6.chunk.js.map",
+    "runtime-main.js": "/slider-and-clock-react-js/static/js/runtime-main.6bff6c75.js",
+    "runtime-main.js.map": "/slider-and-clock-react-js/static/js/runtime-main.6bff6c75.js.map",
+    "static/css/2.383c0125.chunk.css": "/slider-and-clock-react-js/static/css/2.383c0125.chunk.css",
+    "static/js/2.a332ba3a.chunk.js": "/slider-and-clock-react-js/static/js/2.a332ba3a.chunk.js",
+    "static/js/2.a332ba3a.chunk.js.map": "/slider-and-clock-react-js/static/js/2.a332ba3a.chunk.js.map",
+    "static/js/3.fb2353a2.chunk.js": "/slider-and-clock-react-js/static/js/3.fb2353a2.chunk.js",
+    "static/js/3.fb2353a2.chunk.js.map": "/slider-and-clock-react-js/static/js/3.fb2353a2.chunk.js.map",
+    "index.html": "/slider-and-clock-react-js/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/slider-and-clock-react-js/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.b97d33ab.chunk.css.map": "/slider-and-clock-react-js/static/css/main.b97d33ab.chunk.css.map",
+    "static/js/2.a332ba3a.chunk.js.LICENSE.txt": "/slider-and-clock-react-js/static/js/2.a332ba3a.chunk.js.LICENSE.txt",
+    "static/media/blog-1.87bd2070.jpeg": "/slider-and-clock-react-js/static/media/blog-1.87bd2070.jpeg",
+    "static/media/blog-2.93f4b59a.jpeg": "/slider-and-clock-react-js/static/media/blog-2.93f4b59a.jpeg",
+    "static/media/blog-3.9076833f.jpeg": "/slider-and-clock-react-js/static/media/blog-3.9076833f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bff6c75.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.a332ba3a.chunk.js",
+    "static/css/main.b97d33ab.chunk.css",
+    "static/js/main.216e89d6.chunk.js"
+  ]
+}
